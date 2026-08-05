@@ -74,3 +74,12 @@ timeline.xctimeline
 # Test coverage
 *.xcresult
 *.lcov
+
+# --- OS / editor junk & local env (added 2026-08-04) ---
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.env
+.env.local
+.env.*.local
